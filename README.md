@@ -1,5 +1,3 @@
-test.md
-
 # 自己在日常使用的dotfile
 
 ## vimrc
@@ -10,3 +8,7 @@ test.md
 
 1. ^G 为前缀
 2. 禁用了鼠标
+
+## zshrc
+
+zsh + on_my_zsh
